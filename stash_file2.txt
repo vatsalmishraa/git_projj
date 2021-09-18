@@ -1,0 +1,2 @@
+stash_file2
+file created for stashing
